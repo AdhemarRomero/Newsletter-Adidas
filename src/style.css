@@ -26,6 +26,10 @@ header {
   margin: auto 5px;
 }
 
+.logo > .logo-img {
+  width: 80px;
+}
+
 li {
   list-style: none;
   font-family: 'Barlow Condensed', sans-serif;
